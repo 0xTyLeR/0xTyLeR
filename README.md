@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/0xTyLeR/0xTyLeR/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AidnGrin/AidnGrin/output/snake.svg" alt="Snake animation" />
 
 ###
